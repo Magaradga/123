@@ -513,7 +513,7 @@ input::placeholder {
 
 .checkbox:checked + p::before {
   content: "";
-  background: url("/images/Rectangle 4.svg") 50% 50%/auto no-repeat;
+  background: url("../images/1111.svg") 50% 50%/auto no-repeat;
   border: 1px solid #CFCFCF;
   border-radius: 3px;
 }
@@ -531,7 +531,7 @@ input::placeholder {
   height: 18px;
   border: 1px solid #CFCFCF;
   border-radius: 50%;
-  background: url("/images/Ellipse 11.svg") 50% 50%/auto no-repeat;
+  background: url("../images/22222.svg") 50% 50%/auto no-repeat;
 }
 .method__item--link {
   display: -webkit-box;
